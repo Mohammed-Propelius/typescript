@@ -8,7 +8,7 @@ let studentPrsetn: boolean; // bool
 let student: string[]; // array of string
 
 let role: [number, string]; // tuples
-role = [1, "kerm"]; // tuples
+role = [1, "kerms"]; // tuples
 
 type Person = {
   personName: string;
